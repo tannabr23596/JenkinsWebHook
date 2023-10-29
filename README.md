@@ -1,9 +1,3 @@
 # JenkinsWebHook
-# Updating READ.MD file firs time for testing web hook
-#Hii
-#Hello!!!
-#testing
-#hiiiii999543
-#see you
-#hiii there
-#hey there
+# Updating READ.MD file first time for testing web hook
+#Updating READ.MD after fixing errors
